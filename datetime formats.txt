@@ -1,0 +1,32 @@
+/* DateTime formats */
+
+
+Friday, October 9, 2020 11:52 pm    - long12
+Friday, October 9, 2020 23:52       - long24
+Friday, October 9, 2020 11:52:20 pm - long12s
+Friday, October 9, 2020 23:52:20    - long24s
+Friday, October 9, 2020             - long
+October 9, 2020                     - MdY
+9 October, 2020                     - dMY
+Oct 9, 2020                         - mdY
+9 Oct, 2020                         - dmY
+10/09/2020                          - mm/dd/yyyy
+10/09/20                            - mm/dd/yy
+09/10/2020                          - dd/mm/yyyy
+09/10/20                            - dd/mm/yy
+10-09-2020                          - mm-dd-yyyy
+09-10-2020                          - dd-mm-yyyy
+10-09-20                            - mm-dd-yy
+09-10-20                            - dd-mm-yy
+10092020                            - mmddyyyy
+100920                              - mmddyy 
+09102020                            - ddmmyyyy
+091020                              - ddmmyy
+12:17 AM                            - hmt
+12:17:21 AM                         - hmst
+12:17:21:05 AM                      - hmslt 
+00:17                               - Hm
+00:17:21                            - Hms 
+00:17:21:05                         - Hmsl
+
+
